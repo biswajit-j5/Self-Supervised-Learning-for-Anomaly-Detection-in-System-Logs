@@ -822,20 +822,5 @@ Do not add a license unless you have decided which terms you want to apply.
 
 ---
 
-## 👨‍💻 Author
+#
 
-**Biswa**
-
-GitHub: `https://github.com/<YOUR_GITHUB_USERNAME>`
-
----
-
-## ⭐ Acknowledgement
-
-This project is based on the idea of combining unsupervised clustering and deep learning for system-log anomaly detection. The HDFS log dataset is used as the source of structured system-log data.
-
----
-
-## ⭐ If You Find This Project Useful
-
-If this project helped you understand machine learning, deep learning, clustering, or log anomaly detection, consider giving the repository a ⭐ on GitHub.
