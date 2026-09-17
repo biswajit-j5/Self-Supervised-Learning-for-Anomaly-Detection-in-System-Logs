@@ -814,13 +814,4 @@ Possible contribution areas:
 
 ---
 
-## 📄 License
-
-If this repository is intended for public use, add an appropriate license file such as `MIT`, `Apache-2.0`, or another license that matches your project and any dataset/model licensing requirements.
-
-Do not add a license unless you have decided which terms you want to apply.
-
----
-
-#
 
